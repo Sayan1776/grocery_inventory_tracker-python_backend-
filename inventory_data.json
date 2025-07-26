@@ -1,0 +1,10 @@
+{
+    "inventory": {
+        "bread": {
+            "quantity": 5.0,
+            "unit": "pieces",
+            "low": 3.0,
+            "high": 10.0
+        }
+    }
+}
